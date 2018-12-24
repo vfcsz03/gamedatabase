@@ -155,7 +155,7 @@
       "cooldown": "2",
       "name": "Origin of Life",
       "soulAcquire": "1",
-      "description": "Recovers ally's Health, as well as that of another ally with the least Health with healing power. Amount recovered is proportional to the caster's max Health.",
+      "description": "Recovers ally's Health, as well as that of another ally with the least Health, with healing power. Amount recovered is proportional to the caster's max Health.",
       "enhancement": [
         {
           "description": "+5% healing",
