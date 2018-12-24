@@ -243,7 +243,7 @@
       "soulBurn": "20",
       "selfSkillBarValue": "0",
       "soulBurnEffect": "Extends buff duration by 2 turns.",
-      "awakenUpgrade": true,
+      "awakenUpgrade": false,
       "cooldown": "5",
       "name": "Guide of the Goddess",
       "soulAcquire": "2",
