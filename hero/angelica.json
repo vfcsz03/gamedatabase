@@ -151,7 +151,7 @@
       "soulBurn": 0,
       "selfSkillBarValue": 0,
       "soulBurnEffect": "",
-      "awakenUpgrade": false,
+      "awakenUpgrade": true,
       "cooldown": "2",
       "name": "Origin of Life",
       "soulAcquire": "1",
