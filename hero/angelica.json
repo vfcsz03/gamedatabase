@@ -247,7 +247,7 @@
       "cooldown": "5",
       "name": "Guide of the Goddess",
       "soulAcquire": "2",
-      "description": "Recovers to Health of all allies and grants a barrier and immunity for 2 turns. Amount recovered and barrier strength is proportional to the caster's max Health.",
+      "description": "Recovers to Health of all allies and grants a barrier and immunity for 2 turns. Amount recovered and barrier strength are proportional to the caster's max Health.",
       "enhancement": [
         {
           "description": "+5% healing",
