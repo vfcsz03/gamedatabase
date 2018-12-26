@@ -49,10 +49,10 @@
       "cooldown": 0,
       "name": "Sequential Cutter",
       "soulAcquire": "1",
-      "description": "Attacks with a sword, with a 50% chance to decrease Defense if the target's Health is more than 50%, or a 50% chance to make them unhealable for 1 turn if the target's Health is less than 50%.\n",
+      "description": "Attacks with a sword, with a 50% chance to decrease Defense if the target's Health is more than 50%, or a 50% chance to make them unhealable for 1 turn if the target's Health is less than 50%.",
       "enhancement": [
         {
-          "description": "+5% Damage Dealt",
+          "description": "+5% damage dealt",
           "resources": [
             {
               "item": "gold",
@@ -65,7 +65,7 @@
           ]
         },
         {
-          "description": "+10% Damage Dealt",
+          "description": "+10% damage dealt",
           "resources": [
             {
               "item": "gold",
@@ -78,7 +78,7 @@
           ]
         },
         {
-          "description": "+10% Effect Chance",
+          "description": "+10% effect chance",
           "resources": [
             {
               "item": "gold",
@@ -95,7 +95,7 @@
           ]
         },
         {
-          "description": "+15% Effect Chance",
+          "description": "+15% effect chance",
           "resources": [
             {
               "item": "gold",
@@ -112,7 +112,7 @@
           ]
         },
         {
-          "description": "+15% Damage Dealt",
+          "description": "+15% damage dealt",
           "resources": [
             {
               "item": "gold",
@@ -144,10 +144,10 @@
       "cooldown": "3",
       "name": "Spear of Darkness",
       "soulAcquire": "2",
-      "description": "Leaps into the air and strikes at the enemy with a swordstorm, dispelling one buff and decreasing Defense for 2 turns.\n",
+      "description": "Leaps into the air and strikes at the enemy with a swordstorm, dispelling one buff and decreasing Defense for 2 turns.",
       "enhancement": [
         {
-          "description": "+5% Damage Dealt",
+          "description": "+5% damage dealt",
           "resources": [
             {
               "item": "gold",
@@ -160,7 +160,7 @@
           ]
         },
         {
-          "description": "+5% Damage Dealt",
+          "description": "+5% damage dealt",
           "resources": [
             {
               "item": "gold",
@@ -173,7 +173,7 @@
           ]
         },
         {
-          "description": "+10% Damage Dealt",
+          "description": "+10% damage dealt",
           "resources": [
             {
               "item": "gold",
@@ -190,7 +190,7 @@
           ]
         },
         {
-          "description": "+10% Damage Dealt",
+          "description": "+10% damage dealt",
           "resources": [
             {
               "item": "gold",
@@ -207,7 +207,7 @@
           ]
         },
         {
-          "description": "+10% Damage Dealt",
+          "description": "+10% damage dealt",
           "resources": [
             {
               "item": "gold",
@@ -238,10 +238,10 @@
       "cooldown": "5",
       "name": "Goddess of Ruin",
       "soulAcquire": "2",
-      "description": "Attacks all enemies with aura of destruction, decreasing their Combat Readiness by 25%. Increases Combat Readiness of all allies by 25%.\n",
+      "description": "Attacks all enemies with aura of destruction, decreasing their Combat Readiness by 25%. Increases Combat Readiness of all allies by 25%.",
       "enhancement": [
         {
-          "description": "+10% Damage Dealt",
+          "description": "+10% damage dealt",
           "resources": [
             {
               "item": "gold",
@@ -254,7 +254,7 @@
           ]
         },
         {
-          "description": "+10% Damage Dealt",
+          "description": "+10% damage dealt",
           "resources": [
             {
               "item": "gold",
@@ -267,7 +267,7 @@
           ]
         },
         {
-          "description": "-1 Turn Cooldown",
+          "description": "-1 turn cooldown",
           "resources": [
             {
               "item": "gold",
@@ -284,7 +284,7 @@
           ]
         },
         {
-          "description": "+15% Damage Dealt",
+          "description": "+15% damage dealt",
           "resources": [
             {
               "item": "gold",
@@ -301,7 +301,7 @@
           ]
         },
         {
-          "description": "+15% Damage Dealt",
+          "description": "+15% damage dealt",
           "resources": [
             {
               "item": "gold",
